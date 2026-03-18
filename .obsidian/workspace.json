@@ -1,24 +1,24 @@
 {
   "main": {
-    "id": "58fd647c25de993e",
+    "id": "17029d89ab76cc4c",
     "type": "split",
     "children": [
       {
-        "id": "89cae9c3179089b4",
+        "id": "3cd681c176d7071f",
         "type": "tabs",
         "children": [
           {
-            "id": "f4757ea59732ecf2",
+            "id": "7592043941be2072",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2026-03-18.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-03-18"
+              "title": "README"
             }
           }
         ]
@@ -27,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "95738873b8848df3",
+    "id": "db752aca0a0f70f6",
     "type": "split",
     "children": [
       {
-        "id": "6b7c8e2a494a515f",
+        "id": "d1552bfafac037dd",
         "type": "tabs",
         "children": [
           {
-            "id": "141eab21c3fb755b",
+            "id": "816a80f8b9cff6eb",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +48,7 @@
             }
           },
           {
-            "id": "c200d8696fab3535",
+            "id": "3547a0b1ef9ca41b",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +65,7 @@
             }
           },
           {
-            "id": "754af5fdeac57a1d",
+            "id": "02f194d716a5988b",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -81,20 +81,20 @@
     "width": 300
   },
   "right": {
-    "id": "b3892cdfd289f2f6",
+    "id": "654345c7fd43220c",
     "type": "split",
     "children": [
       {
-        "id": "ef3f9e083a8f3afd",
+        "id": "07e1f689d5afabf4",
         "type": "tabs",
         "children": [
           {
-            "id": "d1101fb4a2c2e151",
+            "id": "986a7b2ab76b5e57",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2026-03-18.md",
+                "file": "Welcome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,25 +104,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2026-03-18"
+              "title": "Backlinks for Welcome"
             }
           },
           {
-            "id": "b927ca26e020677c",
+            "id": "95bc2f7ad9fb59e5",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2026-03-18.md",
+                "file": "Welcome.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2026-03-18"
+              "title": "Outgoing links from Welcome"
             }
           },
           {
-            "id": "1cfa38cf22130cf6",
+            "id": "f099622aa0cead9b",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -137,7 +137,7 @@
             }
           },
           {
-            "id": "e16c033f1158bc5c",
+            "id": "656f09cda2ac6980",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -151,18 +151,18 @@
             }
           },
           {
-            "id": "f0c5431425007a03",
+            "id": "6adaad224615c4f1",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "2026-03-18.md",
+                "file": "Welcome.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2026-03-18"
+              "title": "Outline of Welcome"
             }
           }
         ]
@@ -183,9 +183,43 @@
       "bases:Create new base": false
     }
   },
-  "active": "f4757ea59732ecf2",
+  "active": "7592043941be2072",
   "lastOpenFiles": [
+    "AGENTS.md",
     "Welcome.md",
-    "2026-03-18.md"
+    "platonic-values/Welcome.md",
+    "platonic-values/2026-03-18.md",
+    "platonic-values",
+    "notes/ideation/psychology/jungian-archetypes/archetypes-framework.md",
+    "notes/ideation/psychology/jungian-archetypes/archetype-shadows-value-distortions.md",
+    "notes/ideation/psychology/jungian-archetypes/Jungian_Archetypes_Complete.md",
+    "notes/ideation/philosophy/virtues/sins-disorders-values-cross-cultural.md",
+    "notes/ideation/philosophy/virtues/shame-dignity-framework.md",
+    "notes/ideation/philosophy/virtues/paradox-of-sin.md",
+    "notes/ideation/philosophy/virtues/acedia-despair-indifference.md",
+    "notes/ideation/philosophy/virtues/meta-virtues-analysis-1.md",
+    "notes/ideation/psychology/jungian-archetypes",
+    "notes/ideation/psychology/inverted-hierarchy.md",
+    "notes/ideation/philosophy/virtues",
+    "notes/ideation/philosophy/truth-lies-correspondence.md",
+    "notes/ideation/philosophy/theories-of-value.md",
+    "notes/ideation/philosophy/theories-of-truth-summary.md",
+    "notes/ideation/philosophy/ontological-foundations.md",
+    "notes/ideation/metalogic/set-theory-meta-math.md",
+    "notes/ideation/psychology",
+    "notes/ideation/philosophy",
+    "notes/ideation/metalogic",
+    "notes/composition/butterfly-motif.md",
+    "notes/value-specific-virtues.md",
+    "notes/value-framework.md",
+    "notes/value-exploitation-vs-appreciation.md",
+    "notes/ideation",
+    "notes/five-fundamental-values.md",
+    "notes/empirical-validation-spirit.md",
+    "notes/decision-tree.md",
+    "notes/composition",
+    "notes",
+    "README.md",
+    "platonic-values/platonic-values"
   ]
 }

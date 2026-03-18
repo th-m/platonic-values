@@ -1,6 +1,6 @@
 The Inverted Hierarchy
 
-*Spirit as Foundation: A Reexamination of the 5×3 Value Framework*
+*Spirit as Foundation: A Reexamination of the [[value-framework|5×3 Value Framework]]*
 
 Introduction: Two Ways to Build
 
@@ -36,7 +36,7 @@ Viktor Frankl's *Man's Search for Meaning* documents a paradox that challenges M
 
 Frankl observed that prisoners who retained a sense of purpose—whether reuniting with loved ones, completing unfinished work, or bearing witness to atrocity—survived psychological disintegration better than those who abandoned meaning. Even facing starvation, brutality, and death, the human spirit could remain intact *if* it maintained purpose.
 
-This suggests that meaning is not a luxury available only after physical needs are met. Rather, meaning is the *foundation* that enables humans to endure even severe physical deprivation. Without meaning (acedia), physical comfort becomes empty. With meaning, even physical suffering becomes bearable.
+This suggests that meaning is not a luxury available only after physical needs are met. Rather, meaning is the *foundation* that enables humans to endure even severe physical deprivation. Without meaning ([[ideation/philosophy/virtues/acedia-despair-indifference|acedia]]), physical comfort becomes empty. With meaning, even physical suffering becomes bearable.
 
 The camp paradox: Spirit can exist without Physical, but Physical without Spirit becomes merely survival—existing without living.
 
@@ -141,3 +141,9 @@ Together, these insights suggest: Spirit provides the foundation. Mental clarity
 The pyramid hasn't been built upside down. We've been viewing it from the wrong end.
 
 Meaning comes first. Love comes last. And everything between exists to transform the first into the second.
+
+## Related Notes
+
+- [[value-framework]]
+- [[five-fundamental-values]]
+- [[empirical-validation-spirit]]

@@ -10,7 +10,7 @@ Which theories of truth make claims about truth *as it actually exists* versus t
 - **Claim:** Truth is a *real relationship* between statements and mind-independent reality. A statement is true if it corresponds to what actually is.
 - **Closest to:** Plato's realm of Forms — there is something objectively *out there* to correspond to.
 - **Key figures:** Aristotle (classical formulation), Plato (the cave allegory — ascending from shadows to the sun of true reality).
-- **Framework position:** This is the theory the 5×3 Value Framework adopts. Correspondence sits at Mental/Spatial because truth exists *in the relationship between mind and world* — it requires something external to correspond to.
+- **Framework position:** This is the theory the [[value-framework|5×3 Value Framework]] adopts. Correspondence sits at Mental/Spatial because truth exists *in the relationship between mind and world* — it requires something external to correspond to.
 
 ### Coherentism (Truth as Internal Consistency)
 - **Claim:** A belief is true if it fits consistently within a *web of other beliefs*. There is no stepping outside the web to check against "reality itself."
@@ -40,3 +40,11 @@ Which theories of truth make claims about truth *as it actually exists* versus t
 Coherentism and correspondence aren't necessarily opposed in practice. Coherentism describes *how people navigate* truth (testing beliefs for internal consistency), while correspondence describes *what truth is* (alignment with reality). The coherentist method can serve a correspondence metaphysics — we use consistency-checking as our *epistemological process* while aiming at correspondence as the *metaphysical goal*.
 
 This matters for the framework because Correspondence is positioned as the Spatial dimension of the Mental tier precisely because truth requires something *outside yourself* to correspond to. The claim that "'your truth' and 'my truth' language is incoherent when discussing facts" is a distinctly correspondence-realist commitment.
+
+## Related Notes
+
+- [[value-framework]]
+- [[five-fundamental-values]]
+- [[ideation/philosophy/ontological-foundations]]
+- [[ideation/philosophy/truth-lies-correspondence]]
+- [[ideation/philosophy/theories-of-value]]

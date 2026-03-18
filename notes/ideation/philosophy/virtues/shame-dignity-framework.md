@@ -2,11 +2,11 @@ Shame
 
 *The Soul Wound and Its Healing*
 
-*Understanding the Core Identity Wound Through the 5×3 Value Framework*
+*Understanding the Core Identity Wound Through the [[value-framework|5×3 Value Framework]]*
 
 Introduction: The Master Emotion
 
-If acedia is the forgotten sin of meaninglessness, shame is the hidden wound beneath nearly all human suffering. It is not simply an emotion but a profound belief about the self: *I am fundamentally defective and therefore unworthy of love and belonging.*
+If [[ideation/philosophy/virtues/acedia-despair-indifference|acedia]] is the forgotten sin of meaninglessness, shame is the hidden wound beneath nearly all human suffering. It is not simply an emotion but a profound belief about the self: *I am fundamentally defective and therefore unworthy of love and belonging.*
 
 Shame differs fundamentally from guilt. Guilt says 'I did something bad' and can be resolved through amends. Shame says 'I am bad' and feels irreparable. While guilt motivates change, shame paralyzes. Guilt focuses on behavior; shame attacks identity itself.
 
@@ -549,3 +549,12 @@ You are a human being who experienced shame. There's a difference.
 You are worthy of love and belonging. Not because you earned it. Not because you're perfect. Not because you achieved enough. Not because you fixed yourself. But because you're human.
 
 And that's enough.
+
+## Related Notes
+
+- [[value-framework]]
+- [[five-fundamental-values]]
+- [[ideation/philosophy/virtues/meta-virtues-analysis-1]]
+- [[value-specific-virtues]]
+- [[ideation/philosophy/virtues/paradox-of-sin]]
+- [[ideation/philosophy/virtues/acedia-despair-indifference]]

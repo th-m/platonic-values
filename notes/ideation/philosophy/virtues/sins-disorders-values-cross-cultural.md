@@ -6,7 +6,7 @@ Introduction
 
 Every human culture has developed frameworks for understanding moral and psychological dysfunction. What the Christian tradition calls "sins," Buddhism calls "hindrances," modern psychology calls "disorders," and Greek philosophy called "vices." Despite different terminology, these traditions describe the same underlying territory: distorted relationships to fundamental human values.
 
-This document maps sins, disorders, and temptations from major world traditions to the five fundamental values: Physical, Others, Self, Mental, and Spirit. By examining what each culture warned against, we can infer what they valued most.
+This document maps sins, disorders, and temptations from major world traditions to the [[five-fundamental-values|five fundamental values]]: Physical, Others, Self, Mental, and Spirit. By examining what each culture warned against, we can infer what they valued most.
 
 Part I: Mapping Sins & Disorders to the Five Values
 
@@ -87,7 +87,7 @@ Evagrius Ponticus (4th century) — Eight Logismoi
 
 **Gregory I (6th century)** merged Acedia into Sloth (losing the spiritual dimension), merged Sadness into Acedia, and added Envy—creating the familiar Seven Deadly Sins.
 
-**What Christianity Prioritized:** Self (pride as root sin), Spirit (acedia as great danger), Physical restraint.
+**What Christianity Prioritized:** Self (pride as root sin), Spirit ([[ideation/philosophy/virtues/acedia-despair-indifference|acedia]] as great danger), Physical restraint.
 
 Buddhist: Three Poisons & Five Hindrances
 
@@ -259,3 +259,12 @@ The remarkable convergence across traditions suggests that human beings face the
 What differs is emphasis. Eastern traditions tend to foreground Mental (delusion, clarity). Western monotheisms emphasize Spirit (relationship to transcendent) and Self (humility vs. pride). Confucianism prioritizes Others (social harmony). Modern psychology focuses on Self (identity, self-esteem) while often missing Spirit entirely.
 
 The framework reveals that these are not contradictory emphases but complementary perspectives on the same territory. A complete understanding of human flourishing requires attention to all five values—which is precisely what the great wisdom traditions, taken together, provide.
+
+## Related Notes
+
+- [[value-framework]]
+- [[five-fundamental-values]]
+- [[ideation/philosophy/virtues/meta-virtues-analysis-1]]
+- [[value-specific-virtues]]
+- [[ideation/philosophy/virtues/shame-dignity-framework]]
+- [[ideation/philosophy/virtues/paradox-of-sin]]

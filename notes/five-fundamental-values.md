@@ -194,7 +194,7 @@ The Seven Deadly Sins
 
 **Wrath** — MENTAL/Agency (Temporal), Excess position
 
-**Sloth** — MENTAL/Agency (Temporal), Deficit position + SPIRIT/Meaning (Internal), Deficit (when acedia)
+**Sloth** — MENTAL/Agency (Temporal), Deficit position + SPIRIT/Meaning (Internal), Deficit (when [[ideation/philosophy/virtues/acedia-despair-indifference|acedia]])
 
 Notice: Seven sins reduce to expressions of just four fundamental values (Physical, Others, Self, Mental) at different positions. They're not seven *different* things—they're different relationships to the same underlying values.
 
@@ -351,3 +351,10 @@ The framework is **complete** (can map any virtue or vice), **parsimonious** (us
 Five fundamental values. Three dimensions. Three positions. Two modes. This is the complete architecture of human morality and psychology.
 
 *There is nothing else.*
+
+## Related Notes
+
+- [[value-framework]]
+- [[ideation/philosophy/ontological-foundations]]
+- [[value-specific-virtues]]
+- [[ideation/philosophy/virtues/meta-virtues-analysis-1]]

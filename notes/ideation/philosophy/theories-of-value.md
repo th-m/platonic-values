@@ -6,9 +6,9 @@ But here's where it gets genuinely interesting in connection with your work:
 
 What his theory *cannot* explain — and where your framework has real traction — are the value domains that resist reduction to problem-solving:
 
-**Others/Regard**: Why does compassion have value? Lindsay would have to say "it solves social problems," which instrumentalizes what your exploitation-vs-appreciation document identifies as the core move of the manipulator. The political operative who "understands belonging deeply" and uses it instrumentally is doing exactly what a problem-solving theory of value recommends. The community organizer who genuinely grieves when members suffer is honoring something that can't be captured as problem-solving.
+**Others/Regard**: Why does compassion have value? Lindsay would have to say "it solves social problems," which instrumentalizes what your [[value-exploitation-vs-appreciation|exploitation-vs-appreciation document]] identifies as the core move of the manipulator. The political operative who "understands belonging deeply" and uses it instrumentally is doing exactly what a problem-solving theory of value recommends. The community organizer who genuinely grieves when members suffer is honoring something that can't be captured as problem-solving.
 
-**Self/Worth**: Dignity isn't valuable because it "solves the problem" of feeling bad about yourself. That framing already distorts what dignity *is*. The shame merchant in your exploitation document understands self-worth as a problem to be exploited — and a problem-solving theory of value gives her no reason not to.
+**Self/Worth**: Dignity isn't valuable because it "solves the problem" of feeling bad about yourself. That framing already distorts what dignity *is*. The shame merchant in your [[value-exploitation-vs-appreciation|exploitation document]] understands self-worth as a problem to be exploited — and a problem-solving theory of value gives her no reason not to.
 
 **Spirit/Meaning**: This is the deepest challenge. Frankl's observation — that meaning deprivation causes dysfunction even when all material and social problems are solved — directly contradicts a problem-solving theory. If value = capacity to solve problems, and you have unlimited capacity to solve problems (billionaire status), you should have unlimited value in your life. But the existential vacuum hits precisely those people. Meaning isn't a "problem to be solved." It's a ground from which problems *become intelligible as problems in the first place*.
 
@@ -17,3 +17,11 @@ This connects to something subtle that Lindsay actually gestures toward without 
 **The deepest issue**: A problem-solving theory of value is itself an expression of a particular position on your framework — it's the Mental/Agency perspective universalized. It says the fundamental orientation of consciousness is *problem-solving agent encountering resistant world*. Your framework suggests this is one mode among five, and that treating it as the whole story is precisely what creates the conditions for exploitation rather than appreciation. The exploiter is the ultimate problem-solver. They see every value as a problem to be leveraged. What they lack isn't intelligence or capability — it's reverence.
 
 Lindsay's theory works well for explaining microeconomic exchange. It fails as a complete theory of value because it can't distinguish between the factory owner who provides "just enough to maintain productivity" and the one who closes early during a heatwave because "people shouldn't suffer for profit." Both are solving problems. Only one is honoring values.
+
+## Related Notes
+
+- [[value-framework]]
+- [[five-fundamental-values]]
+- [[ideation/philosophy/ontological-foundations]]
+- [[ideation/philosophy/theories-of-truth-summary]]
+- [[ideation/philosophy/truth-lies-correspondence]]

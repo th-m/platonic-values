@@ -4,7 +4,7 @@ The Empirical Validation of Spirit as a Fundamental Value
 
 Introduction
 
-The ontological foundations document argued that Spirit—meaning-making and transcendence—must be included as a fundamental value despite requiring what Kierkegaard called a 'leap of faith.' Unlike Physical (empirically undeniable), Self (logically necessary via Descartes), Others (pragmatically necessary), and Mental (validated through mathematical Platonism), Spirit cannot be proven to exist as an objective feature of reality.
+The [[ideation/philosophy/ontological-foundations|ontological foundations document]] argued that Spirit—meaning-making and transcendence—must be included as a fundamental value despite requiring what Kierkegaard called a 'leap of faith.' Unlike Physical (empirically undeniable), Self (logically necessary via Descartes), Others (pragmatically necessary), and Mental (validated through mathematical Platonism), Spirit cannot be proven to exist as an objective feature of reality.
 
 However, the ontological argument concluded that Spirit deserves inclusion through three forms of validation: phenomenological reality (universally present across cultures), Frankl's concentration camp observations (meaning matters more than physical conditions in extremis), and pragmatic necessity (humans function better with it). This document provides empirical validation for all three claims with quantitative evidence.
 
@@ -178,7 +178,7 @@ The ontological foundations document established that Spirit deserves inclusion 
 
 **The leap of faith is pragmatically justified.** While we cannot prove meaning exists objectively, we can prove that humans who cultivate meaning live longer, recover from addiction more successfully, and function better across all measured domains. As William James argued in Pragmatism, beliefs are validated by their consequences. The consequences of meaning-making are profound and measurable.
 
-*The 5×3 Value Framework's inclusion of Spirit is not wishful thinking or religious bias—it is recognition of an empirically validated reality: **humans require meaning to flourish, and meaning-making produces measurable benefits across physical, mental, and social domains.** Whether that meaning is discovered through connection to transcendent reality or created through existential commitment matters philosophically but not empirically—both paths produce the same life-sustaining effects.*
+*The [[value-framework|5×3 Value Framework]]'s inclusion of Spirit is not wishful thinking or religious bias—it is recognition of an empirically validated reality: **humans require meaning to flourish, and meaning-making produces measurable benefits across physical, mental, and social domains.** Whether that meaning is discovered through connection to transcendent reality or created through existential commitment matters philosophically but not empirically—both paths produce the same life-sustaining effects.*
 
 **Spirit belongs in the framework because it works.**
 
@@ -203,3 +203,10 @@ Kelly, J. F., Stout, R. L., Magill, M., Tonigan, J. S., & Pagano, M. E. (2011). 
 Shiba, K., Cowden, R. G., Gonzalez, N., Lee, M. T., Lomas, T., Lai, A. Y., ... & VanderWeele, T. J. (2021). Associations between purpose in life and mortality by SES. *American Journal of Preventive Medicine, 61*(2), e53-e61. https://doi.org/10.1016/j.amepre.2021.02.011
 
 Tonigan, J. S., Rynes, K. N., & McCrady, B. S. (2013). Spirituality as a change mechanism in 12-step programs: A replication, extension, and refinement. *Substance Use & Misuse, 48*(12), 1161-1173. https://doi.org/10.3109/10826084.2013.824418
+
+## Related Notes
+
+- [[value-framework]]
+- [[five-fundamental-values]]
+- [[ideation/philosophy/ontological-foundations]]
+- [[ideation/psychology/inverted-hierarchy]]

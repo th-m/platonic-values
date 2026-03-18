@@ -155,3 +155,10 @@
 ## Key Principle
 
 Everyone contains all archetypes. Psychological health means accessing each appropriately while integrating their shadows.
+
+## Related Notes
+
+- [[value-framework]]
+- [[five-fundamental-values]]
+- [[ideation/psychology/jungian-archetypes/archetypes-framework]]
+- [[ideation/psychology/jungian-archetypes/archetype-shadows-value-distortions]]

@@ -15,7 +15,7 @@ Build a binary yes/no decision tree walking through fundamental beliefs, startin
 
 ### Binary Decision Path
 1. Does truth require matching something outside the mind?
-   - Yes → **Correspondence Theory**
+   - Yes → **[[ideation/philosophy/theories-of-truth-summary|Correspondence Theory]]**
    - No → Q2
 2. Is "true" a substantive, meaningful predicate?
    - Yes → Q3
@@ -120,3 +120,11 @@ Build a binary yes/no decision tree walking through fundamental beliefs, startin
 - Social Constructivism appears in both the pragmatist and intersubjective idealism branches — accurately
 - "Is consciousness fundamental or derived?" is a strong alternative starting question that reorganizes the tree around mind rather than truth
 - Each truth theory mirrors a pattern in how people relate to values generally — worth integrating into therapeutic applications
+
+## Related Notes
+
+- [[value-framework]]
+- [[five-fundamental-values]]
+- [[ideation/philosophy/theories-of-truth-summary]]
+- [[ideation/philosophy/truth-lies-correspondence]]
+- [[ideation/philosophy/theories-of-value]]

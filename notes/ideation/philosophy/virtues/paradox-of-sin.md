@@ -6,7 +6,7 @@ Introduction
 
 Every deadly sin contains a paradox: it promises to solve the very problem it creates. Pride promises self-worth but delivers shame. Greed promises security but delivers anxiety. Each sin is a solution that becomes the problem.
 
-The 5x3 Value Framework reveals why: virtues exist at the mean, not at the poles. When you try to achieve a virtue by pursuing its deficit or excess, you're moving in the wrong direction. It's geometrically impossible to reach the center by running toward either edge.
+The [[value-framework|5x3 Value Framework]] reveals why: virtues exist at the mean, not at the poles. When you try to achieve a virtue by pursuing its deficit or excess, you're moving in the wrong direction. It's geometrically impossible to reach the center by running toward either edge.
 
 The Geometry of Virtue
 
@@ -145,3 +145,12 @@ The ultimate paradox: The protection becomes the prison. What you resist persist
 Then virtue becomes possible. Not as achievement but as alignment. Not as perfection but as balance. Not as rigidity but as responsive engagement with reality as it is.
 
 Virtue is the way through. Sin is the detour that loops back on itself.
+
+## Related Notes
+
+- [[value-framework]]
+- [[five-fundamental-values]]
+- [[ideation/philosophy/virtues/meta-virtues-analysis-1]]
+- [[value-specific-virtues]]
+- [[ideation/philosophy/virtues/shame-dignity-framework]]
+- [[ideation/philosophy/virtues/acedia-despair-indifference]]

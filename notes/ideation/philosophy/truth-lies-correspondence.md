@@ -1,6 +1,6 @@
 *The Value of Correspondence*
 
-*Understanding Ignorance, Deceit, Honesty, and Brutality Through the 5×3 Value Framework*
+*Understanding Ignorance, Deceit, Honesty, and Brutality Through the [[value-framework|5×3 Value Framework]]*
 
 # Introduction: The Battle for Reality
 
@@ -130,7 +130,7 @@ Key insights:
 
 **Framework insight:** Plato recognized that ignorance is the default human state. Correspondence with reality requires active effort—the ascent from the cave. But he also showed the danger of brutal honesty: freed prisoners forced to see blinding sunlight suffer.
 
-## Aristotle: Correspondence Theory
+## Aristotle: [[ideation/philosophy/theories-of-truth-summary|Correspondence Theory]]
 
 Aristotle gave us the classical definition of truth:
 
@@ -240,7 +240,7 @@ Philosopher Harry Frankfurt made a crucial distinction in his essay *On Bullshit
 
 Frankfurt argues bullshit is worse than lying because the liar at least acknowledges truth exists (by contradicting it). The bullshitter treats truth as irrelevant—only persuasion matters.
 
-**Framework insight:** Bullshit represents a meta-level deficit: not just failing at correspondence, but refusing to value correspondence at all. It's acedia for truth—'correspondence doesn't matter.'
+**Framework insight:** Bullshit represents a meta-level deficit: not just failing at correspondence, but refusing to value correspondence at all. It's [[ideation/philosophy/virtues/acedia-despair-indifference|acedia]] for truth—'correspondence doesn't matter.'
 
 ## Buddhism: Right Speech and Delusion
 

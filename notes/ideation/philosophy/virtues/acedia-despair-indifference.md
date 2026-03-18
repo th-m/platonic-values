@@ -2,7 +2,7 @@ Acedia, Despair, and Indifference
 
 *The Lost Sin of Meaninglessness and Its Modern Manifestations*
 
-*Insights from Great Thinkers Through the 5×3 Value Framework*
+*Insights from Great Thinkers Through the [[value-framework|5×3 Value Framework]]*
 
 Introduction: The Forgotten Sin
 
@@ -436,3 +436,12 @@ It will matter because you chose it.
 That's how meaning works.
 
 And that's enough.
+
+## Related Notes
+
+- [[value-framework]]
+- [[five-fundamental-values]]
+- [[ideation/philosophy/virtues/meta-virtues-analysis-1]]
+- [[value-specific-virtues]]
+- [[ideation/philosophy/virtues/shame-dignity-framework]]
+- [[ideation/philosophy/virtues/paradox-of-sin]]

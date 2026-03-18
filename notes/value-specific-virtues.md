@@ -4,7 +4,7 @@ Excellence Within the Five Fundamental Domains
 
 Introduction
 
-While meta-virtues transcend all five fundamental values and describe *how* to relate to any value domain, value-specific virtues describe excellence *within* a particular domain. These virtues use the language and concepts native to their domain and cannot be meaningfully applied elsewhere.
+While [[ideation/philosophy/virtues/meta-virtues-analysis-1|meta-virtues]] transcend all [[five-fundamental-values|five fundamental values]] and describe *how* to relate to any value domain, value-specific virtues describe excellence *within* a particular domain. These virtues use the language and concepts native to their domain and cannot be meaningfully applied elsewhere.
 
 For example:
 
@@ -423,3 +423,9 @@ A fully integrated person demonstrates:
 • Meta-virtues: patience, wisdom, courage applied across all domains
 
 This is the complete architecture of human excellence.
+
+## Related Notes
+
+- [[value-framework]]
+- [[five-fundamental-values]]
+- [[ideation/philosophy/virtues/meta-virtues-analysis-1]]

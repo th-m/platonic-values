@@ -46,7 +46,7 @@ All three instances demonstrate:
 
 ### Spirit as Foundation (Inverted Hierarchy)
 
-The butterfly motif directly supports the inverted hierarchy model: meaning/Spirit functions as the organizing principle that persists when lower-level structures (physical matter, biological substrate, psychological patterns) dissolve and reconstitute.
+The butterfly motif directly supports the [[ideation/psychology/inverted-hierarchy|inverted hierarchy]] model: meaning/Spirit functions as the organizing principle that persists when lower-level structures (physical matter, biological substrate, psychological patterns) dissolve and reconstitute.
 
 Levin's caterpillars demonstrate this empirically—the physical brain is destroyed and rebuilt, but the *salience* of learned experiences remains. The Spirit tier isn't earned through Physical → Mental → Self integration; it's the *necessary ground* that makes integrated identity possible across transformative thresholds.
 
@@ -74,4 +74,11 @@ This convergence suggests the butterfly captures something fundamental about con
 
 ---
 
-*This motif can serve as a unifying thread through the book's exploration of the 5×3 Value Framework, particularly when discussing the Spirit value, temporal integration, and the inverted hierarchy's implications for identity persistence across transformative experiences.*
+*This motif can serve as a unifying thread through the book's exploration of the [[value-framework|5×3 Value Framework]], particularly when discussing the Spirit value, temporal integration, and the inverted hierarchy's implications for identity persistence across transformative experiences.*
+
+## Related Notes
+
+- [[value-framework]]
+- [[five-fundamental-values]]
+- [[ideation/psychology/inverted-hierarchy]]
+- [[ideation/metalogic/set-theory-meta-math]]

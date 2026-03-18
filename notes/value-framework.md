@@ -219,7 +219,7 @@ The 5×3 Value Framework recognizes that both virtues and vices can manifest thr
 
 Consider the Truth/Correspondence value at Tier 4. The deficit pole encompasses both ignorance (omission—failing to seek or know truth) and deceit (commission—actively misrepresenting reality). Both violate the virtue of Honesty, but through opposite mechanisms: one through not-doing, the other through doing. Similarly, at Tier 2, the Regard value's deficit includes both indifference (omission—not caring about others' welfare) and cruelty (commission—actively causing harm). The person who walks past someone suffering and the person who inflicts suffering both fail at compassion, though their modes differ fundamentally.
 
-This pattern appears throughout the framework. At Tier 5, meaninglessness manifests as acedia (omission—not creating meaning) or active nihilism (commission—destroying others' meaning). At Tier 3, self-neglect appears as shame (omission—failing to value oneself) or active self-sabotage (commission—deliberately harming oneself). The framework acknowledges that within each pole—whether deficit or excess—violations can occur through either passive failure or active transgression. A person can fail to care for their body through neglect (omission) or through deliberate self-harm (commission); both are disorders of Physical/Sustenance, but they require different interventions. Understanding whether a value disorder stems from omission or commission is crucial for healing: omission requires activation and engagement, while commission requires restraint and redirection. The framework thus maps not only what values are corrupted, but how they're corrupted—revealing the full landscape of human moral and psychological struggle.
+This pattern appears throughout the framework. At Tier 5, meaninglessness manifests as [[ideation/philosophy/virtues/acedia-despair-indifference|acedia]] (omission—not creating meaning) or active nihilism (commission—destroying others' meaning). At Tier 3, self-neglect appears as shame (omission—failing to value oneself) or active self-sabotage (commission—deliberately harming oneself). The framework acknowledges that within each pole—whether deficit or excess—violations can occur through either passive failure or active transgression. A person can fail to care for their body through neglect (omission) or through deliberate self-harm (commission); both are disorders of Physical/Sustenance, but they require different interventions. Understanding whether a value disorder stems from omission or commission is crucial for healing: omission requires activation and engagement, while commission requires restraint and redirection. The framework thus maps not only what values are corrupted, but how they're corrupted—revealing the full landscape of human moral and psychological struggle.
 
 ### TIER 1: PHYSICAL
 
@@ -594,3 +594,10 @@ The 5×3 Value Framework offers a comprehensive map of the moral and psychologic
 By recognizing that sins are value disorders and virtues are balanced relationships to legitimate values, the framework provides both diagnostic clarity and a path toward integration. Shadow work becomes not the mysterious pursuit of unconscious complexes but the practical work of value portfolio rebalancing.
 
 Whether used for personal growth, therapeutic intervention, or interfaith dialogue, the framework provides a shared language for humanity's ancient quest: learning to live well.
+
+## Related Notes
+
+- [[five-fundamental-values]]
+- [[ideation/philosophy/ontological-foundations]]
+- [[value-specific-virtues]]
+- [[ideation/philosophy/virtues/meta-virtues-analysis-1]]

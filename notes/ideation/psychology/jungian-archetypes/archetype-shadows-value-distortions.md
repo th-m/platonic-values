@@ -4,7 +4,7 @@ Archetype Shadows and Value Distortions
 
 Introduction
 
-Each Jungian archetype, when operating in shadow, creates characteristic imbalances across the five fundamental values: Physical, Others, Self, Mental, and Spirit. Understanding these patterns reveals how archetypes distort our relationship to what matters most.
+Each Jungian archetype, when operating in shadow, creates characteristic imbalances across the [[five-fundamental-values|five fundamental values]]: Physical, Others, Self, Mental, and Spirit. Understanding these patterns reveals how archetypes distort our relationship to what matters most.
 
 Shadow states involve imbalance—overinvesting in one or two values while starving others. Integration means rebalancing the portfolio.
 
@@ -161,3 +161,10 @@ The common thread across all shadow patterns is
 Recognition is the first step: identify which archetype patterns dominate your life, notice where you over- and undervalue, and begin the work of bringing neglected values back into balance.
 
 The goal is not to eliminate any archetype but to access all of them appropriately—moving fluidly between configurations as life requires, operating at the mean rather than the poles.
+
+## Related Notes
+
+- [[value-framework]]
+- [[five-fundamental-values]]
+- [[ideation/psychology/jungian-archetypes/archetypes-framework]]
+- [[ideation/psychology/jungian-archetypes/Jungian_Archetypes_Complete]]

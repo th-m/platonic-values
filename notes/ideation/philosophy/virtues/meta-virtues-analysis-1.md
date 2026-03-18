@@ -2,7 +2,7 @@ Meta-Virtues: Transcendent Qualities Across the Five Fundamental Values
 
 Introduction
 
-The 5×3 Value Framework identifies five fundamental domains of human existence (Physical, Others, Self, Mental, Spirit) expressed through three dimensions (Internal, Spatial, Temporal). Within this framework, every virtue and vice can be mapped to specific values at particular positions (deficit, mean, excess).
+The [[value-framework|5×3 Value Framework]] identifies five fundamental domains of human existence (Physical, Others, Self, Mental, Spirit) expressed through three dimensions (Internal, Spatial, Temporal). Within this framework, every virtue and vice can be mapped to specific values at particular positions (deficit, mean, excess).
 
 However, certain virtues operate differently—they transcend individual values and describe how to relate to all values. These meta-virtues are not expressions of any single fundamental value but rather qualities of character that enable proper navigation of the entire value framework.
 
@@ -458,7 +458,7 @@ These virtues exist in productive tension, requiring wisdom to know which pole s
 
 Meta-Pattern: A Complete Navigational System
 
-The 100 meta-virtues collectively form a comprehensive system for navigating the five fundamental values. They provide:
+The 100 meta-virtues collectively form a comprehensive system for navigating the [[five-fundamental-values|five fundamental values]]. They provide:
 
 **• Directional Guidance:** Where to move on value spectrums
 
@@ -503,3 +503,12 @@ Together they form a complete navigational system for the five fundamental value
 **Integration is having the right meta-virtue for the right value in the right context.**
 
 This is not theory but practice—a map for the ancient quest to live well.
+
+## Related Notes
+
+- [[value-framework]]
+- [[five-fundamental-values]]
+- [[value-specific-virtues]]
+- [[ideation/philosophy/virtues/shame-dignity-framework]]
+- [[ideation/philosophy/virtues/paradox-of-sin]]
+- [[ideation/philosophy/virtues/acedia-despair-indifference]]

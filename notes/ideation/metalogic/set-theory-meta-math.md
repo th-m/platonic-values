@@ -1,4 +1,4 @@
-# Set Theory & Meta-Mathematics in the 5×3 Value Framework
+# Set Theory & Meta-Mathematics in the [[value-framework|5×3 Value Framework]]
 
 A compilation of insights developed across project conversations concerning set theory, formal systems, mathematical realism, and their integration with the value framework.
 
@@ -36,7 +36,7 @@ The Cantor metaphor supports Spirit as foundational: if consciousness is of a hi
 
 ### Role in the Ontological Foundations
 
-Gödel appears in the framework's ontological foundations document as a key figure supporting **mathematical Platonism**. He was an explicit Platonist who believed mathematical objects exist objectively and that mathematical intuition allows us to perceive them.
+Gödel appears in the framework's [[ideation/philosophy/ontological-foundations|ontological foundations document]] as a key figure supporting **mathematical Platonism**. He was an explicit Platonist who believed mathematical objects exist objectively and that mathematical intuition allows us to perceive them.
 
 His incompleteness theorems (1931) established that:
 
@@ -166,3 +166,10 @@ The four book metaphors — butterfly, constraint, brachistochrone, and Cantor �
 - **Set theory alternatives** (Grim & Rescher): Are there non-standard set theories that better model the framework's relational ontology of virtue?
 - **Computational complexity and values**: If P ≠ NP, some value integrations may be computationally irreducible — you can't shortcut the process, only walk the path. This connects to the claim that phronesis (practical wisdom) cannot be algorithmically taught.
 - **Cantor's continuum hypothesis**: The question of whether there exist infinities between countable and uncountable — does this have an analogue in the framework's hierarchy of values?
+
+## Related Notes
+
+- [[value-framework]]
+- [[five-fundamental-values]]
+- [[ideation/philosophy/ontological-foundations]]
+- [[ideation/philosophy/theories-of-truth-summary]]

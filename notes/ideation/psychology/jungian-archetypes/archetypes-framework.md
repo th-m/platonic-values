@@ -1,6 +1,6 @@
 Archetypes and Values
 
-Mapping Jungian Archetypes Through the 5x3 Value Framework
+Mapping Jungian Archetypes Through the [[value-framework|5x3 Value Framework]]
 
 Introduction: Archetypes as Value Configurations
 
@@ -416,7 +416,7 @@ The Innocent
 </tbody>
 </table>
 
-Framework Insight: The Innocent operates at Meaning (faith/hope) and Belonging (trust). Shadow at deficit is acedia/cynicism—loss of all faith. Shadow at excess is fanaticism—blind faith disconnected from reality. This parallels the fairy tale insight: healthy faith recognizes darkness exists but believes it can be overcome. Not denying dragons, but trusting they can be defeated.
+Framework Insight: The Innocent operates at Meaning (faith/hope) and Belonging (trust). Shadow at deficit is [[ideation/philosophy/virtues/acedia-despair-indifference|acedia]]/cynicism—loss of all faith. Shadow at excess is fanaticism—blind faith disconnected from reality. This parallels the fairy tale insight: healthy faith recognizes darkness exists but believes it can be overcome. Not denying dragons, but trusting they can be defeated.
 
 The Orphan/Everyman
 
@@ -693,3 +693,10 @@ This mapping provides practical tools for Jungian work:
 Jung's vision was wholeness—becoming fully human by integrating all parts. The framework shows the structure of that wholeness: all values, all tiers, all dimensions, all at their balanced means, with flexible access to all configurations as life requires.
 
 Every archetype is a way of being human. Integration means having access to all of them, appropriately.
+
+## Related Notes
+
+- [[value-framework]]
+- [[five-fundamental-values]]
+- [[ideation/psychology/jungian-archetypes/archetype-shadows-value-distortions]]
+- [[ideation/psychology/jungian-archetypes/Jungian_Archetypes_Complete]]

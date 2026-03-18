@@ -1,4 +1,4 @@
-The Ontological Foundations of the 5×3 Value Framework
+The Ontological Foundations of the [[value-framework|5×3 Value Framework]]
 
 *Why There Are Exactly Five Fundamental Values: A Philosophical Defense*
 
@@ -6,7 +6,7 @@ Introduction: The Question of Necessity
 
 Any comprehensive map of human values must answer a foundational question: Why these categories and not others? Is the framework merely a useful taxonomy—one organizational scheme among many possible alternatives—or does it track something objectively real about the structure of human existence?
 
-The 5×3 Value Framework makes a strong claim: the five fundamental values (Physical, Self, Others, Mental, Spirit) are not arbitrary constructions but **necessary features of conscious existence in physical reality**. Each value is grounded in a different aspect of what it means to be a conscious being in spacetime, and together they exhaust the possibilities.
+The 5×3 Value Framework makes a strong claim: the [[five-fundamental-values|five fundamental values]] (Physical, Self, Others, Mental, Spirit) are not arbitrary constructions but **necessary features of conscious existence in physical reality**. Each value is grounded in a different aspect of what it means to be a conscious being in spacetime, and together they exhaust the possibilities.
 
 This document presents the philosophical case for this ontological claim, drawing on insights from Descartes, Plato, Chalmers, Kierkegaard, Frankl, and others who have grappled with the fundamental structures of reality and consciousness.
 
@@ -414,7 +414,7 @@ Why Cross-Cultural Convergence Occurs
 
 Different traditions are exploring the same objective structure:
 
-Christian Desert Fathers discovered acedia (Spirit/deficit)
+Christian Desert Fathers discovered [[ideation/philosophy/virtues/acedia-despair-indifference|acedia]] (Spirit/deficit)
 
 Buddhist psychology discovered delusion (Mental/deficit)
 

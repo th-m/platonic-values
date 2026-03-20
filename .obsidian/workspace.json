@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/decision-tree.md",
+                "file": "notes/composition/butterfly-motif.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "decision-tree"
+              "title": "butterfly-motif"
             }
           }
         ]
@@ -74,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -183,8 +184,21 @@
       "bases:Create new base": false
     }
   },
-  "active": "7592043941be2072",
+  "active": "3547a0b1ef9ca41b",
   "lastOpenFiles": [
+    "notes/composition/march-18/different-infinities-motif.md",
+    "notes/composition/brachistochrone-light-christ-motif.md",
+    "notes/composition/march-18/brachistochrone-light-christ-motif.md",
+    "notes/composition/march-18/motif-architecture-four-symbols.md",
+    "notes/composition/march-18/glossary-architecture-and-starter-lexicon.md",
+    "notes/composition/march-18/chapter-template-field-guide-engine.md",
+    "notes/composition/march-18/book-architecture-framework-first.md",
+    "notes/composition/march-18",
+    "notes/composition/book-architecture-framework-first.md",
+    "notes/decision-tree.md",
+    "notes/composition/glossary-architecture-and-starter-lexicon.md",
+    "notes/composition/chapter-template-field-guide-engine.md",
+    "notes/composition/motif-architecture-four-symbols.md",
     "notes/value-framework.md",
     "notes/value-specific-virtues.md",
     "notes/five-fundamental-values.md",
@@ -200,26 +214,13 @@
     "notes/ideation/philosophy/virtues/sins-disorders-values-cross-cultural.md",
     "notes/ideation/philosophy/virtues/shame-dignity-framework.md",
     "notes/ideation/philosophy/virtues/paradox-of-sin.md",
-    "notes/ideation/philosophy/virtues/acedia-despair-indifference.md",
-    "notes/ideation/philosophy/virtues/meta-virtues-analysis-1.md",
     "notes/ideation/psychology/jungian-archetypes",
-    "notes/ideation/psychology/inverted-hierarchy.md",
     "notes/ideation/philosophy/virtues",
-    "notes/ideation/philosophy/truth-lies-correspondence.md",
-    "notes/ideation/philosophy/theories-of-value.md",
-    "notes/ideation/philosophy/theories-of-truth-summary.md",
-    "notes/ideation/philosophy/ontological-foundations.md",
-    "notes/ideation/metalogic/set-theory-meta-math.md",
     "notes/ideation/psychology",
     "notes/ideation/philosophy",
     "notes/ideation/metalogic",
-    "notes/composition/butterfly-motif.md",
-    "notes/value-exploitation-vs-appreciation.md",
     "notes/ideation",
-    "notes/empirical-validation-spirit.md",
-    "notes/decision-tree.md",
     "notes/composition",
-    "notes",
-    "platonic-values/platonic-values"
+    "notes"
   ]
 }

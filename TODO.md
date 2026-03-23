@@ -1,0 +1,40 @@
+
+
+- [ ] Objectives
+	- [ ] Fundamental Values - Commodities of Virtue
+	- [ ] Definitive Hierarchy of Virtues
+	- [ ] Scientific Evidence or Metalogic Proof
+	- [ ] Rubric for assessing Virtue Systems
+- [ ] Religions
+	- [ ] Abrahamic
+		- [ ] Catholic
+		- [ ] LDS
+		- [ ] Muslim
+	- [ ] Judaism
+		- [ ] Kabala
+	- [ ] Gnosticism
+	- [ ] Budism
+	- [ ] 
+- [ ] Virtues
+	- [ ] Wisdom
+	- [ ] Humility
+	- [ ] Gratitude
+	- [ ] Grace
+	- [ ] Charity
+	- [ ] Holiness
+	- [ ] Temperance
+	- [ ] Acedia
+	- [ ] 7 Cardinal Virtues
+	- [ ] 7 Deadly Sins
+- [ ] Philosophies
+	- [ ] Ontology
+	- [ ]  Platonic Realm - Aristotle meets p
+- [ ] Psychologies
+	- [ ] Jungian Archetypes
+	- [ ] Maslows Hierarchy
+	- [ ] Haidts Hiararchy of Virtues
+- [ ] Sciences
+- [ ] Metalogic
+	- [ ] Infinite
+	- [ ] Golden Ratio
+	- [ ] Proof theoroms

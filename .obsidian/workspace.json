@@ -25,12 +25,14 @@
             "id": "c326f3109c5ecbd6",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.12.7"
+                "file": "TODO.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.12.7"
+              "icon": "lucide-file",
+              "title": "TODO"
             }
           }
         ],
@@ -193,11 +195,15 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "mermaid-tools:Open Mermaid Toolbar": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "c326f3109c5ecbd6",
   "lastOpenFiles": [
+    "notes/value-framework.md",
     "notes/decision-tree.md",
     "TODO.md",
     "notes/composition/butterfly-motif.md",
@@ -213,7 +219,6 @@
     "notes/composition/glossary-architecture-and-starter-lexicon.md",
     "notes/composition/chapter-template-field-guide-engine.md",
     "notes/composition/motif-architecture-four-symbols.md",
-    "notes/value-framework.md",
     "notes/value-specific-virtues.md",
     "notes/five-fundamental-values.md",
     "README.md",
